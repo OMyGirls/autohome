@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\back\HelloAR2\helloAR\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="D:\back\HelloAR2\helloAR\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.1_2e3e90794a3e9253ea65d8833323fb9df4090757.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\back\HelloAR2\helloAR\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="D:\back\HelloAR2\helloAR\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.1_fe54c57d5da6a679a1c8cf037e5a111b29a73e2c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\back\HelloAR2\helloAR\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="D:\back\HelloAR2\helloAR\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.1_a99272bede082a9379309351f7672b369431d7e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\back\HelloAR2\helloAR\libs\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="57e4f87c95570512f75d130bdb4329bf260bf569">
+        <dex dex="D:\back\HelloAR2\helloAR\build\intermediates\pre-dexed\debug\classes_0672c042d847e8297ecb736935ca198915e00e79.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\back\HelloAR2\helloAR\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="D:\back\HelloAR2\helloAR\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.1_fa47f5570af3a86155a753cf9ddfb256461b9d9a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\back\HelloAR2\helloAR\libs\libammsdk.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="11b09244aedaa51bfd09269637be7c32c60da314">
+        <dex dex="D:\back\HelloAR2\helloAR\build\intermediates\pre-dexed\debug\libammsdk_f51bc2d2efa8fb6e351824d28d90e87baeb6d4d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\back\HelloAR2\helloAR\libs\ShareSDK-Wechat-Moments-2.7.10.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a8357a3810c2e5bbb6274042a1508bac87759c5f">
+        <dex dex="D:\back\HelloAR2\helloAR\build\intermediates\pre-dexed\debug\ShareSDK-Wechat-Moments-2.7.10_6814ca0663af1862329a97ebe3039cab0ce7a186.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\back\HelloAR2\helloAR\libs\ShareSDK-Core-2.7.10.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a7e5f9da3635eb8d89b8a9a22cd68cd64cca9104">
+        <dex dex="D:\back\HelloAR2\helloAR\build\intermediates\pre-dexed\debug\ShareSDK-Core-2.7.10_6702060bc5ff44477b59ec1035209ce668a64677.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\back\HelloAR2\helloAR\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\back\HelloAR2\helloAR\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.1_e51187ee5bb98af00b0c1a22e77df8035663ea7d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\back\HelloAR2\helloAR\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="D:\back\HelloAR2\helloAR\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.1_fa427c0f95a986c37ff63541fd45645b4b00c6db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\back\HelloAR2\helloAR\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="D:\back\HelloAR2\helloAR\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_4877a6795e8285f02b8dfeb06b2c7e63bfea024e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\back\HelloAR2\helloAR\libs\EasyAR.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aa019f333032b841610e5c08221b682cb86f90d4">
+        <dex dex="D:\back\HelloAR2\helloAR\build\intermediates\pre-dexed\debug\EasyAR_277b60c3b19e86630248833e8e861d37c94d18eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\back\HelloAR2\helloAR\libs\MobCommons-2016.1107.1809.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="978446ee83b82106e7d859832e4e3440101bda5a">
+        <dex dex="D:\back\HelloAR2\helloAR\build\intermediates\pre-dexed\debug\MobCommons-2016.1107.1809_10fe0d1d49736535a95aac56965291cd6e08a528.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\back\HelloAR2\helloAR\libs\ShareRec-Core-1.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d13da8e6e1edb8e2f5c7ddbd7167bd83e6ed722b">
+        <dex dex="D:\back\HelloAR2\helloAR\build\intermediates\pre-dexed\debug\ShareRec-Core-1.5.2_958eb10fc54e694948adab59d35ba169a7960bcf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\back\HelloAR2\helloAR\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="D:\back\HelloAR2\helloAR\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.1_9e745fe5aa4adc5aa83a215323872556c31ee024.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\back\HelloAR2\helloAR\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="D:\back\HelloAR2\helloAR\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_80bf4f0ae638bf757b152a34cc9519b4cc1ac80f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\back\HelloAR2\helloAR\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="D:\back\HelloAR2\helloAR\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.1_af134c97f2041bfc91641016ee9f1d88dd51acb8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\back\HelloAR2\helloAR\libs\gson-2.6.2-withsource.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="17743fbad145f0af1b160974851b8bedf0c1228e">
+        <dex dex="D:\back\HelloAR2\helloAR\build\intermediates\pre-dexed\debug\gson-2.6.2-withsource_4513d358b125be781292f4b70dda64203d268c7f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\back\HelloAR2\helloAR\libs\universal-image-loader-1.9.4-with-sources.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="604ff6764ba92000f025e16153897e82cbe70f5c">
+        <dex dex="D:\back\HelloAR2\helloAR\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.4-with-sources_bd86fed03df2054902b0033c8b4dbb5220e92bc4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\back\HelloAR2\helloAR\libs\MobTools-2016.1107.1809.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51ab3d9199c3df198ba8fedb2916027f283676d6">
+        <dex dex="D:\back\HelloAR2\helloAR\build\intermediates\pre-dexed\debug\MobTools-2016.1107.1809_7b384d276ded0c71a13534a4b0f699e7a3c13f6a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\back\HelloAR2\helloAR\libs\ShareSDK-Wechat-2.7.10.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9e12f2d8a6f01dce27c65ce3b93bccd46e7ffd4">
+        <dex dex="D:\back\HelloAR2\helloAR\build\intermediates\pre-dexed\debug\ShareSDK-Wechat-2.7.10_ced8662150759013d8270fc02a27359f54785ca5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\back\HelloAR2\helloAR\libs\xutils-3.3.36.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00e85a777e4cc8e89f327d4c34c6245f9cab9652">
+        <dex dex="D:\back\HelloAR2\helloAR\build\intermediates\pre-dexed\debug\xutils-3.3.36_a28180f614206dead7cea93a7ae7df11e7d2617c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\back\HelloAR2\helloAR\libs\ShareRec-1.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b3224611c3ffa4314159e6c7c70ee010c45504c3">
+        <dex dex="D:\back\HelloAR2\helloAR\build\intermediates\pre-dexed\debug\ShareRec-1.5.2_8752ad33977031b196565aa23052b06d18152136.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\back\HelloAR2\helloAR\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="D:\back\HelloAR2\helloAR\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_ece954df60b267ab3cd6d20c785cc6543e662e9e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\back\HelloAR2\helloAR\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="D:\back\HelloAR2\helloAR\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.1_c620297af94e28e92b6f9896fe97efbf83f73e96.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\back\HelloAR2\helloAR\libs\unity-classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1e5f0bba9ec09f6878042e5c4b4312c3fce2632a">
+        <dex dex="D:\back\HelloAR2\helloAR\build\intermediates\pre-dexed\debug\unity-classes_ba91e7843a9f41ffbbba2cf97ca702940b112d39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\back\HelloAR2\helloAR\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="D:\back\HelloAR2\helloAR\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_0783ddcf1c0fa9dc8fb016cd10fc5392e62724fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\back\HelloAR2\helloAR\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="D:\back\HelloAR2\helloAR\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_0ea996c2fa4af4e2a13e28beccd97a4c1666f065.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\back\HelloAR2\helloAR\libs\ShareSDK-Wechat-Core-2.7.10.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a720ef31ac89904b603fb2a27c01bb21a951fcad">
+        <dex dex="D:\back\HelloAR2\helloAR\build\intermediates\pre-dexed\debug\ShareSDK-Wechat-Core-2.7.10_08cf17ad3ae6ff1d51df581d567201289c8c67bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="D:\back\HelloAR2\helloAR\build\intermediates\pre-dexed\debug\support-annotations-25.0.1_5f65b673dcba1f90e7cc716505b07b8431e445ae.jar" />
+    </item>
+
+</items>

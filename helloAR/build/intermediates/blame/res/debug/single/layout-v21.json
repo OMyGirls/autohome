@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout-v21\\notification_action_tombstone.xml"
+    }
+]

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="56dp"
+    android:paddingTop="6dp"
+    android:paddingBottom="6dp"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:background="#ffffff">
+    <ImageView
+        android:id="@+id/iv_ar"
+        android:layout_width="60dp"
+        android:layout_height="40dp"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:scaleType="fitXY"
+        android:adjustViewBounds="true"/>
+    <TextView
+        android:id="@+id/tv_info_ar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="6dp"
+        android:layout_toRightOf="@+id/iv_ar"
+        android:layout_centerVertical="true"
+        android:textColor="#000000"
+        android:lines="1"
+        android:textSize="17dp"
+        android:text="幸福金玫瑰"/>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/other_arrow_height"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:src="@drawable/arrow"/>
+</RelativeLayout>

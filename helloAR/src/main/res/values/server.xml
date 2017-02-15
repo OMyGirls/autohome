@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="BASE_URL">http://139.196.223.192:9941/arcth/app/</string>
+    <!--<string name="BASE_URL">http://192.168.1.140/arcth/app/</string>-->
+    <string name="ACTION_REG">auth/reg</string>
+    <string name="ACTION_LOGIN">auth/login</string>
+    <string name="ACTION_UPLOAD">vqn/upload</string>
+</resources>

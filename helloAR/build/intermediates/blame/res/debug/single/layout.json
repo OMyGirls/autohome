@@ -1,0 +1,530 @@
+[
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\unity_view_scan_content_camera.xml",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\layout\\unity_view_scan_content_camera.xml"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home.xml",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\item_ar_data.xml",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\layout\\item_ar_data.xml"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_custom.xml",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\item_ar_data_header.xml",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\layout\\item_ar_data_header.xml"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home.xml",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\activity_unity.xml",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\layout\\activity_unity.xml"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_person.xml",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\layout\\fragment_person.xml"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_discover.xml",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\layout\\fragment_discover.xml"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\progress_dialog.xml",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\layout\\progress_dialog.xml"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\activity_arinfo2.xml",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\layout\\activity_arinfo2.xml"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\unity_view_scan_content_camera_record.xml",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\layout\\unity_view_scan_content_camera_record.xml"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\activity_arinfo.xml",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\layout\\activity_arinfo.xml"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_custom.xml",
+        "source": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\item_photo.xml",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\layout\\item_photo.xml"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\activity_unity.xml",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\layout\\activity_unity.xml"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_blank.xml",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\layout\\fragment_blank.xml"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\unity_view_scan_content_camera_button.xml",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\layout\\unity_view_scan_content_camera_button.xml"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\item_ar_data.xml",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\layout\\item_ar_data.xml"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\item_ar_data_header.xml",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\layout\\item_ar_data_header.xml"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\activity_about_us.xml",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\layout\\activity_about_us.xml"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\activity_arinfo2.xml",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\layout\\activity_arinfo2.xml"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\activity_user_guide_detail.xml",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\layout\\activity_user_guide_detail.xml"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_discover.xml",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\layout\\fragment_discover.xml"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_person.xml",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\layout\\fragment_person.xml"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\activity_arinfo.xml",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\layout\\activity_arinfo.xml"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\unity_view_scan_content_camera_record.xml",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\layout\\unity_view_scan_content_camera_record.xml"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\unity_view_scan_content_camera_button.xml",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\layout\\unity_view_scan_content_camera_button.xml"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\activity_user_guide.xml",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\layout\\activity_user_guide.xml"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\progress_dialog.xml",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\layout\\progress_dialog.xml"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow_custom.xml",
+        "source": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_share.xml",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\layout\\dialog_share.xml"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\activity_user_guide_detail.xml",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\layout\\activity_user_guide_detail.xml"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\activity_about_us.xml",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\layout\\activity_about_us.xml"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\activity_photo.xml",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\layout\\activity_photo.xml"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow_custom.xml",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_share.xml",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\layout\\dialog_share.xml"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\unity_view_scan_content_camera.xml",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\layout\\unity_view_scan_content_camera.xml"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_item.xml",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\layout\\fragment_item.xml"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\item_photo.xml",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\layout\\item_photo.xml"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_blank.xml",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\layout\\fragment_blank.xml"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\activity_photo.xml",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\layout\\activity_photo.xml"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_plus_one.xml",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\layout\\fragment_plus_one.xml"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\activity_user_guide.xml",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\layout\\activity_user_guide.xml"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_plus_one.xml",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\layout\\fragment_plus_one.xml"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_item.xml",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\layout\\fragment_item.xml"
+    }
+]

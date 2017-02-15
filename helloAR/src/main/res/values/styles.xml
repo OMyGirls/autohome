@@ -1,0 +1,80 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--
+        Base application theme, dependent on API level. This theme is replaced
+        by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
+    -->
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!-- All customizations that are NOT specific to ce particular API-level can go here. -->
+        <item name="android:windowAnimationStyle">@style/MyActivitySwitchAnimation</item>
+    </style>
+
+    <!--<style name="ThemeActivity" parent="Theme.AppCompat.Light">-->
+    <style name="ThemeActivity" parent="android:Theme.Light.NoTitleBar">
+    	<item name="android:windowAnimationStyle">@style/MyActivitySwitchAnimation</item>
+	</style> 
+	 
+    <style name="MyActivitySwitchAnimation" mce_bogus="1" parent="@android:style/Animation.Activity">
+        <item name="android:activityOpenEnterAnimation">@anim/anim_activity_open_enter</item>
+        <item name="android:activityOpenExitAnimation">@anim/anim_activity_open_exit</item>
+        <item name="android:activityCloseEnterAnimation">@anim/anim_activity_close_enter</item>
+        <item name="android:activityCloseExitAnimation">@anim/anim_activity_close_exit</item>
+    </style>
+    <style name="ShareActivitySwitchAnimation" mce_bogus="1" parent="@android:style/Animation.Activity">
+        <item name="android:activityOpenEnterAnimation">@anim/dialog_anim_from_bottom_enter</item>
+        <item name="android:activityOpenExitAnimation">@anim/activity_fading</item>
+        <item name="android:activityCloseEnterAnimation">@anim/dialog_anim_from_bottom_exit</item>
+        <item name="android:activityCloseExitAnimation">@anim/activity_fading</item>
+    </style>
+
+        <!-- Dialog样式 -->
+    <style name="DialogStyle" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <!-- 边框 -->
+        <item name="android:windowIsFloating">true</item>
+        <!-- 是否浮现在activity之上 -->
+        <item name="android:windowIsTranslucent">false</item>
+        <!-- 半透明 -->
+        <item name="android:windowNoTitle">true</item>
+        <!-- 无标题 -->
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+
+    <style name="ShareActivityDialogStyle" parent="DialogStyle">
+        <item name="android:windowAnimationStyle">@style/ShareActivitySwitchAnimation</item>
+    </style>
+
+    <style name="CustomTabPageIndicator" >
+        <item name="android:background">@drawable/type_tab_indictor</item>
+        <item name="android:textAppearance">@style/CustomTabPageIndicator.Text</item>
+        <item name="android:textColor">@color/type_tab_text_color</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:divider">@android:color/transparent</item>
+        <item name="android:dividerPadding">1dp</item>
+        <item name="android:showDividers">none</item>
+        <item name="android:paddingLeft">6dp</item>
+        <item name="android:paddingRight">6dp</item>
+        <item name="android:paddingTop">4dp</item>
+        <item name="android:paddingBottom">4dp</item>
+        <item name="android:fadingEdge">horizontal</item>
+        <item name="android:fadingEdgeLength">8dp</item>
+    </style>
+    <style name="CustomTabPageIndicator.Text" parent="android:TextAppearance.Medium">
+        <item name="android:typeface">monospace</item>
+    </style>
+
+    <declare-styleable name="RotateTextView">
+        <attr name="degree" format="dimension" />
+    </declare-styleable>
+
+    <style name="dialogAnimationFromBottom" mce_bogus="1" parent="android:Animation">
+        <item name="android:windowEnterAnimation">@anim/dialog_anim_from_bottom_enter</item>
+        <item name="android:windowExitAnimation">@anim/dialog_anim_from_bottom_exit</item>
+    </style>
+
+    <style name="Universal.Widget.ProgressBar" parent="@android:style/Widget.ProgressBar">
+        <item name="android:indeterminateDrawable">@drawable/uvv_progress_rotate</item>
+        <item name="android:indeterminateDuration">1000</item>
+    </style>
+</resources>

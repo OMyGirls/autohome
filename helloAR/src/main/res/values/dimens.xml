@@ -1,0 +1,77 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="action_bar_view_padding">6dp</dimen>
+
+    <integer name="activity_anim_duration">400</integer>
+
+    <dimen name="record_bottom_bar_height">80dp</dimen>
+
+    <dimen name="tab_text">14dp</dimen>
+    <dimen name="home_function_height">220dp</dimen>
+    <dimen name="tile_map_toolbar_margin_left">6dp</dimen>
+    <dimen name="float_menu_radius">50dp</dimen>
+    <dimen name="function_padding">14dp</dimen>
+    <dimen name="tabIndictorHeight">40dp</dimen>
+    <dimen name="item_route_height">100dp</dimen>
+    <dimen name="poi_image_width">30dp</dimen>
+    <dimen name="poi_image_height">45dp</dimen>
+    <dimen name="tab_indictor_bottom_liine_height">0dp</dimen>
+    <dimen name="home_padding_h">14dp</dimen>
+    <dimen name="route_item_info_margin">7dp</dimen>
+    <dimen name="tile_map_toolbar_margin_top">6dp</dimen>
+    <dimen name="content_padding_left">16dp</dimen>
+    <dimen name="content_padding_right">16dp</dimen>
+    <dimen name="line_margin_h">20dp</dimen>
+    <dimen name="item_poi_info_margin">4dp</dimen>
+    <dimen name="poi_detail_icon_width">16dp</dimen>
+    <dimen name="init_show_width">46dp</dimen>
+    <dimen name="search_size">14sp</dimen>
+    <dimen name="action_bar_height">44dp</dimen>
+    <dimen name="actionbar_padding_left">14dp</dimen>
+    <dimen name="actionbar_padding_right">14dp</dimen>
+    <dimen name="action_bar_top">20dp</dimen>
+    <dimen name="share_view_width">46dp</dimen>
+    <dimen name="actionbar_view_width">28dp</dimen>
+    <dimen name="actionbar_view_height">28dp</dimen>
+    <dimen name="actionbar_padding_top">4dp</dimen>
+    <dimen name="actionbar_padding_bottom">4dp</dimen>
+
+    <dimen name="font_max">20dp</dimen>
+    <dimen name="font_large">18dp</dimen>
+    <dimen name="font_medium">15dp</dimen>
+    <dimen name="font_small">14dp</dimen>
+    <dimen name="home_tabbar_height">50dp</dimen>
+    <dimen name="home_item_height">92dp</dimen>
+    <dimen name="distance_image_text">26dp</dimen>
+    <dimen name="dialog_radius_size">4dp</dimen>
+    <dimen name="update_button_margin">26dp</dimen>
+    <dimen name="update_button_height">34dp</dimen>
+    <dimen name="update_btn_width">102dp</dimen>
+    <dimen name="tab_btn_padding">4dp</dimen>
+    <dimen name="tabbar_height">80dp</dimen>
+    <!-- 状态栏透明时顶部padding间距 -->
+    <dimen name="activity_status_trans_padding_top">0dp</dimen>
+    <dimen name="size_1">40dp</dimen>
+    <dimen name="width_1">36dp</dimen>
+    <dimen name="padding_l_1">16dp</dimen>
+    <dimen name="padding_r_1">16dp</dimen>
+    <dimen name="actionbar_distance">4dp</dimen>
+    <dimen name="tabbar_button_height">48dp</dimen>
+    <dimen name="tabbar_iv_height">24dp</dimen>
+    <dimen name="tabbar_scan_iv_height">66dp</dimen>
+    <dimen name="tabbar_iv_text_distance">3dp</dimen>
+    <dimen name="tabbar_text_size">11dp</dimen>
+    <dimen name="play_video_width">40dp</dimen>
+    <dimen name="other_iv_height">24dp</dimen>
+    <dimen name="other_arrow_height">20dp</dimen>
+    <dimen name="ar_button_margin">32dp</dimen>
+    <dimen name="margin_left_image">10dp</dimen>
+    <dimen name="padding_text_info">16dp</dimen>
+    <dimen name="margin_gray_line">10dp</dimen>
+    <dimen name="line_height">1dp</dimen>
+    <dimen name="record_height">6dp</dimen>
+</resources>

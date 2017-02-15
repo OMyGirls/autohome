@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <!-- 图片缓存文件夹 名称-->
+    <string name="cache_dir" >imgURL</string>
+    
+    <!-- 缓存最大时间（天） -->
+    <integer name="db_cache_max_time">2</integer>
+    <!-- 网络连接数据缓存 -->
+    <string name="db_cache_name">httpcache</string>
+</resources>

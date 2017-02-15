@@ -1,0 +1,682 @@
+[
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\uvv_itv_player_play.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\uvv_itv_player_play.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\record_stop.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\record_stop.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_dropbox.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_dropbox.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_bluetooth.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_bluetooth.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\tab_scan_pressed.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\tab_scan_pressed.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_laiwang.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_laiwang.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\uvv_itv_player_play.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\uvv_itv_player_play.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\back_unity.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\back_unity.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\tab_person_pressed.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\tab_person_pressed.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_tencentweibo.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_tencentweibo.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_kaixin.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_kaixin.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_yixinmoments.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_yixinmoments.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_wechatfavorite.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_wechatfavorite.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\start_scan_info.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\start_scan_info.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_wechat.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_wechat.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_kaixin.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_kaixin.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\uvv_seek_dot.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\uvv_seek_dot.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_check_checked.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_check_checked.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_wechat.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_wechat.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\uvv_player_player_btn.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\uvv_player_player_btn.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_twitter.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_twitter.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_youdao.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_youdao.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\tab_faxian_normal.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\tab_faxian_normal.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\point_org.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\point_org.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\tab_line.9.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\tab_line.9.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_qzone.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_qzone.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\uvv_on_error.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\uvv_on_error.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\uvv_common_ic_loading_icon.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\uvv_common_ic_loading_icon.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_sinaweibo.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_sinaweibo.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\tab_scan_normal.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\tab_scan_normal.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_douban.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_douban.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_yixin.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_yixin.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_wechatmoments.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_wechatmoments.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_check_default.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_check_default.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_alipay.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_alipay.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\scan_line.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\scan_line.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_mingdao.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_mingdao.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_title_div.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\ssdk_title_div.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\uvv_star_zoom_in.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\uvv_star_zoom_in.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_pocket.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_pocket.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_fanzhuanshexiangtou_pressed.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\icon_fanzhuanshexiangtou_pressed.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_take_record.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\icon_take_record.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\uvv_play_vb_bg_progress.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\uvv_play_vb_bg_progress.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_renren.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_renren.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_camera.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\ic_camera.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_kakaotalk.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_kakaotalk.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_yixinmoments.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_yixinmoments.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_back_arr.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\ssdk_back_arr.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_tencentweibo.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_tencentweibo.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\tab_line.9.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\tab_line.9.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\uvv_play_vb_bg_progress.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\uvv_play_vb_bg_progress.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\app_banner.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\app_banner.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_twitter.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_twitter.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_loading.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\icon_loading.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_shortmessage.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_shortmessage.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\tab_person_pressed.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\tab_person_pressed.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_whatsapp.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_whatsapp.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\uvv_star_zoom_in.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\uvv_star_zoom_in.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_kakaostory.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_kakaostory.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_vkontakte.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_vkontakte.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_logo.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\ssdk_logo.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_line.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_line.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_logo.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\ssdk_logo.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_youdao.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_youdao.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_loading.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\icon_loading.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_take_record.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\icon_take_record.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_check_default.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_check_default.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\back_unity.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\back_unity.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_instagram.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_instagram.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\tab_scan_pressed.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\tab_scan_pressed.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\uvv_back_btn.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\uvv_back_btn.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_laiwangmoments.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_laiwangmoments.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_dropbox.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_dropbox.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\uvv_on_error.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\uvv_on_error.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\uvv_play_vb_bg.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\uvv_play_vb_bg.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\actionbar_unity_bg.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\actionbar_unity_bg.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_circleview.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\ic_circleview.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_camera.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\ic_camera.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_tumblr.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_tumblr.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_pinterest.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_pinterest.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\tab_person_normal.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\tab_person_normal.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\start_scan_bg.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\start_scan_bg.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\start_scan_bg.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\start_scan_bg.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\tabbar_button_bg_normal.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\tabbar_button_bg_normal.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\point_empty.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\point_empty.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_alipay.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_alipay.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\tab_scan_normal.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\tab_scan_normal.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_qq.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_qq.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_circleview.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\ic_circleview.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_instapaper.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_instapaper.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_take_photos.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\icon_take_photos.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_instapaper.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_instapaper.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\start_scan.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\start_scan.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_flickr.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_flickr.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_email.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_email.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_flickr.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_flickr.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_laiwang.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_laiwang.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\record_stop.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\record_stop.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\uvv_player_scale_btn.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\uvv_player_scale_btn.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\actionbar_unity_bg.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\actionbar_unity_bg.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_check_checked.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_check_checked.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\uvv_play_vb_bg.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\uvv_play_vb_bg.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_foursquare.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_foursquare.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\change_camera.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\change_camera.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_foursquare.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_foursquare.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_back_arr.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\ssdk_back_arr.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\tab_faxian_normal.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\tab_faxian_normal.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\uvv_player_scale_btn.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\uvv_player_scale_btn.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_shortmessage.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_shortmessage.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_alipaymoments.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_alipaymoments.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_line.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_line.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_wechatfavorite.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_wechatfavorite.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_tumblr.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_tumblr.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_googleplus.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_googleplus.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_auth_title_back.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\ssdk_auth_title_back.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_whatsapp.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_whatsapp.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_yixin.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_yixin.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\uvv_player_player_btn.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\uvv_player_player_btn.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\tab_faxian_pressed.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\tab_faxian_pressed.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\tabbar_button_bg_normal.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\tabbar_button_bg_normal.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\point_empty.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\point_empty.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_evernote.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_evernote.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_sinaweibo.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_sinaweibo.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_mingdao.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_mingdao.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_fanzhuanshexiangtou_normal.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\icon_fanzhuanshexiangtou_normal.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_evernote.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_evernote.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\uvv_back_btn.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\uvv_back_btn.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\point_org.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\point_org.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\uvv_common_ic_loading_icon.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\uvv_common_ic_loading_icon.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_auth_title_back.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\ssdk_auth_title_back.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\uvv_seek_dot.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\uvv_seek_dot.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_renren.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_renren.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_laiwangmoments.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_laiwangmoments.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_facebook.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_facebook.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_facebook.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_facebook.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_kakaostory.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_kakaostory.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\uvv_volume_btn.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\uvv_volume_btn.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_alipaymoments.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_alipaymoments.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\scan_line.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\scan_line.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\change_camera.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\change_camera.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\tab_person_normal.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\tab_person_normal.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\tabbar_button_bg_selected.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\tabbar_button_bg_selected.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_email.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_email.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\tab_faxian_pressed.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\tab_faxian_pressed.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_qzone.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_qzone.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_vkontakte.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_vkontakte.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\uvv_stop_btn.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\uvv_stop_btn.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\uvv_stop_btn.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\uvv_stop_btn.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_facebookmessenger.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_facebookmessenger.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\uvv_volume_btn.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\uvv_volume_btn.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_facebookmessenger.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_facebookmessenger.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\start_scan_info.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\start_scan_info.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_fanzhuanshexiangtou_pressed.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\icon_fanzhuanshexiangtou_pressed.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_googleplus.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_googleplus.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_douban.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_douban.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_instagram.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_instagram.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\start_scan.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\start_scan.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_linkedin.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_linkedin.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_pocket.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_pocket.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\app_banner.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\app_banner.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_fanzhuanshexiangtou_normal.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\icon_fanzhuanshexiangtou_normal.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_pinterest.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_pinterest.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_title_div.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\ssdk_title_div.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_wechatmoments.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_wechatmoments.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_bluetooth.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_bluetooth.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_kakaotalk.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_kakaotalk.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\tabbar_button_bg_selected.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\tabbar_button_bg_selected.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_take_photos.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\icon_take_photos.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_linkedin.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_linkedin.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_qq.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_qq.png"
+    }
+]

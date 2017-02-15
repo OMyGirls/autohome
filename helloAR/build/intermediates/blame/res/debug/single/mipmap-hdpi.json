@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\icon_des.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\mipmap-hdpi\\icon_des.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\icon_des.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\mipmap-hdpi\\icon_des.png"
+    }
+]

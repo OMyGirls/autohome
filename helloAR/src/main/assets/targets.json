@@ -1,0 +1,23 @@
+{
+  "images" :
+  [
+    {
+      "image" : "argame00.jpg",
+      "name" : "argame"
+    },
+    {
+      "image" : "sijichuchang.jpg",
+      "name" : "sijichuchang"
+    },
+    {
+      "image" : "wufu.jpg",
+      "name" : "wufu"
+    },
+    {
+      "image" : "idback.jpg",
+      "name" : "idback",
+      "size" : [8.56, 5.4],
+      "uid" : "uid-string"
+    }
+  ]
+}

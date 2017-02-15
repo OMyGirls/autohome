@@ -1,0 +1,154 @@
+[
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\anim\\anim_scan_match.xml",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\anim\\anim_scan_match.xml"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\anim\\anim_activity_close_exit.xml",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\anim\\anim_activity_close_exit.xml"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\anim\\anim_activity_open_enter.xml",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\anim\\anim_activity_open_enter.xml"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\anim\\anim_activity_close_enter.xml",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\anim\\anim_activity_close_enter.xml"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\anim\\dialog_anim_from_bottom_exit.xml",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\anim\\dialog_anim_from_bottom_exit.xml"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\anim\\activity_fading.xml",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\anim\\activity_fading.xml"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\anim\\anim_activity_open_enter.xml",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\anim\\anim_activity_open_enter.xml"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\anim\\anim_activity_close_enter.xml",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\anim\\anim_activity_close_enter.xml"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\anim\\anim_activity_open_exit.xml",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\anim\\anim_activity_open_exit.xml"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\anim\\anim_1.xml",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\anim\\anim_1.xml"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\anim\\anim_activity_close_exit.xml",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\anim\\anim_activity_close_exit.xml"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\anim\\dialog_anim_from_bottom_exit.xml",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\anim\\dialog_anim_from_bottom_exit.xml"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\anim\\dialog_anim_from_bottom_enter.xml",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\anim\\dialog_anim_from_bottom_enter.xml"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\anim\\dialog_anim_from_bottom_enter.xml",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\anim\\dialog_anim_from_bottom_enter.xml"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\anim\\anim_1.xml",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\anim\\anim_1.xml"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\anim\\anim_scan_match.xml",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\anim\\anim_scan_match.xml"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\anim\\anim_activity_open_exit.xml",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\anim\\anim_activity_open_exit.xml"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\anim\\activity_fading.xml",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\anim\\activity_fading.xml"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\anim\\abc_slide_out_top.xml"
+    }
+]

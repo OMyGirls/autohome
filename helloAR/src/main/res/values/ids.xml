@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+      <item type="id" name="unity_back" />
+      <item type="id" name="unity_top_bar" />
+      <item type="id" name="unity_bottom_bar" />
+      <item type="id" name="unity_sliding_drawer" />
+      
+      <item type="id" name="unityview"></item>
+      <item type="id" name="mapview"></item>
+      <item type="id" name="naiview"></item>
+      <item type="id" name="poi_menu"></item>
+</resources>

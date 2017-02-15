@@ -1,0 +1,270 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Risky Project Location:
+-----------------------
+The tools *should* handle project locations in any directory. However,
+due to bugs, placing projects in directories containing spaces in the
+path, or characters like ", ' and &, have had issues. We're working to
+eliminate these bugs, but to save yourself headaches you may want to
+move your project to a location where this is not a problem.
+D:\shareSDK\v2.7.10\ShareSDK for Android Sample\HelloAR2
+                            -   -       -               
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+From HelloAR:
+* proguard-unity.txt
+From ShareRec:
+* AndroidManifest.xml
+* res\
+* res\drawable-hdpi\
+* res\drawable-hdpi\ssdk_oks_ptr_ptr.png
+* res\drawable-xhdpi\
+* res\drawable-xhdpi\smssdk_back_arrow.png
+* res\drawable-xhdpi\smssdk_back_arrow2.png
+* res\drawable-xhdpi\smssdk_cl_divider.png
+* res\drawable-xhdpi\smssdk_clear_search.png
+* res\drawable-xhdpi\smssdk_cp_default_avatar.png
+* res\drawable-xhdpi\smssdk_default_avatar.png
+* res\drawable-xhdpi\smssdk_dialog_back.9.png
+* res\drawable-xhdpi\smssdk_dialog_bg.9.png
+* res\drawable-xhdpi\smssdk_input_bg_focus.9.png
+* res\drawable-xhdpi\smssdk_input_bg_normal.9.png
+* res\drawable-xhdpi\smssdk_input_bg_special_focus.9.png
+* res\drawable-xhdpi\smssdk_input_bg_special_normal.9.png
+* res\drawable-xhdpi\smssdk_search_icon.png
+* res\drawable-xhdpi\smssdk_sharesdk_icon.png
+* res\drawable-xhdpi\srec_audio_commentate.png
+* res\drawable-xhdpi\srec_back_arr.png
+* res\drawable-xhdpi\srec_back_arr_blue_base.png
+* res\drawable-xhdpi\srec_click_for_more.png
+* res\drawable-xhdpi\srec_commentate_bound.png
+* res\drawable-xhdpi\srec_comments.png
+* res\drawable-xhdpi\srec_comments_back_land.png
+* res\drawable-xhdpi\srec_default_user_icon.jpg
+* res\drawable-xhdpi\srec_dislike.png
+* res\drawable-xhdpi\srec_download_land.png
+* res\drawable-xhdpi\srec_edit_share_content_base.png
+* res\drawable-xhdpi\srec_follow.png
+* res\drawable-xhdpi\srec_ic_menu_rotate.png
+* res\drawable-xhdpi\srec_like.png
+* res\drawable-xhdpi\srec_localvideo_land.png
+* res\drawable-xhdpi\srec_login_input_nick.png
+* res\drawable-xhdpi\srec_login_input_password.png
+* res\drawable-xhdpi\srec_logout.png
+* res\drawable-xhdpi\srec_myvideo_land.png
+* res\drawable-xhdpi\srec_pause_video_base.png
+* res\drawable-xhdpi\srec_photo_crop_bound.9.png
+* res\drawable-xhdpi\srec_photo_picker_alb_land.png
+* res\drawable-xhdpi\srec_photo_picker_bg_land.9.png
+* res\drawable-xhdpi\srec_photo_picker_cam_land.png
+* res\drawable-xhdpi\srec_plat_facebook_icon.png
+* res\drawable-xhdpi\srec_plat_sina_icon.png
+* res\drawable-xhdpi\srec_plat_tencent_icon.png
+* res\drawable-xhdpi\srec_plat_twitter_icon.png
+* res\drawable-xhdpi\srec_plat_wechat_session_icon.png
+* res\drawable-xhdpi\srec_plat_wechat_timeline_icon.png
+* res\drawable-xhdpi\srec_play_video_base.png
+* res\drawable-xhdpi\srec_profile_conf.jpg
+* res\drawable-xhdpi\srec_profile_conf_port.png
+* res\drawable-xhdpi\srec_pull_to_refresh.png
+* res\drawable-xhdpi\srec_raw_video_more.png
+* res\drawable-xhdpi\srec_recomm_play.png
+* res\drawable-xhdpi\srec_sb_close_base.png
+* res\drawable-xhdpi\srec_sb_info.png
+* res\drawable-xhdpi\srec_sb_play.png
+* res\drawable-xhdpi\srec_sb_share.png
+* res\drawable-xhdpi\srec_settings_land.png
+* res\drawable-xhdpi\srec_share_online_video.png
+* res\drawable-xhdpi\srec_share_video.png
+* res\drawable-xhdpi\srec_show_less.png
+* res\drawable-xhdpi\srec_show_more.png
+* res\drawable-xhdpi\srec_show_oks.png
+* res\drawable-xhdpi\srec_start.png
+* res\drawable-xhdpi\srec_start_gray.png
+* res\drawable-xhdpi\srec_tick.png
+* res\drawable-xhdpi\srec_title_back_base.png
+* res\drawable-xhdpi\srec_ve_add_an.png
+* res\drawable-xhdpi\srec_ve_add_narration.png
+* res\drawable-xhdpi\srec_ve_add_vn.png
+* res\drawable-xhdpi\srec_ve_from.png
+* res\drawable-xhdpi\srec_ve_share.png
+* res\drawable-xhdpi\srec_ve_to.png
+* res\drawable-xhdpi\srec_video_center_setting.png
+* res\drawable-xhdpi\srec_video_commentate.png
+* res\drawable-xhdpi\srec_video_detail_dislike.png
+* res\drawable-xhdpi\srec_video_detail_like.png
+* res\drawable-xhdpi\srec_video_fluency_fl_land.png
+* res\drawable-xhdpi\srec_video_fluency_fl_sel_land.png
+* res\drawable-xhdpi\srec_video_fluency_hd_land.png
+* res\drawable-xhdpi\srec_video_fluency_hd_sel_land.png
+* res\drawable-xhdpi\srec_video_fluency_or_land.png
+* res\drawable-xhdpi\srec_video_fluency_or_sel_land.png
+* res\drawable-xhdpi\srec_video_fluency_sd_land.png
+* res\drawable-xhdpi\srec_video_fluency_sd_sel_land.png
+* res\drawable-xhdpi\srec_video_item_comms_land.png
+* res\drawable-xhdpi\srec_video_item_likes_land.png
+* res\drawable-xhdpi\srec_video_item_likes_liked_land.png
+* res\drawable-xhdpi\srec_video_item_views_land.png
+* res\drawable-xhdpi\srec_vp_bar_fullscr.png
+* res\drawable-xhdpi\srec_vp_bar_toview.png
+* res\drawable-xhdpi\srec_vp_play_base.png
+* res\drawable-xhdpi\srec_vp_sb_bg.9.png
+* res\drawable-xhdpi\srec_vp_sb_bg_progress.9.png
+* res\drawable-xhdpi\srec_vp_sb_thumb.png
+* res\drawable-xhdpi\srec_vp_stop_base.png
+* res\drawable-xhdpi\ssdk_auth_title_back.png
+* res\drawable-xhdpi\ssdk_back_arr.png
+* res\drawable-xhdpi\ssdk_logo.png
+* res\drawable-xhdpi\ssdk_oks_classic_check_checked.png
+* res\drawable-xhdpi\ssdk_oks_classic_check_default.png
+* res\drawable-xhdpi\ssdk_oks_classic_facebook.png
+* res\drawable-xhdpi\ssdk_oks_classic_sinaweibo.png
+* res\drawable-xhdpi\ssdk_oks_classic_wechat.png
+* res\drawable-xhdpi\ssdk_oks_classic_wechatmoments.png
+* res\drawable-xhdpi\ssdk_title_div.png
+* res\drawable\
+* res\drawable\smssdk_btn_disenable.xml
+* res\drawable\smssdk_btn_enable.xml
+* res\drawable\smssdk_corners_bg.xml
+* res\drawable\smssdk_corners_bg_nor.xml
+* res\drawable\smssdk_corners_bg_pre.xml
+* res\drawable\smssdk_country_bg_selector.xml
+* res\drawable\smssdk_country_group_scroll_down.xml
+* res\drawable\smssdk_country_group_scroll_up.xml
+* res\drawable\smssdk_dialog_btn_back.xml
+* res\drawable\smssdk_edittext_bg_selector.xml
+* res\drawable\srec_add_comment_back_land.xml
+* res\drawable\srec_bine_phone.xml
+* res\drawable\srec_comment_back.xml
+* res\drawable\srec_crop_sb_item_back.xml
+* res\drawable\srec_edit_profile_back.xml
+* res\drawable\srec_fluency_back.xml
+* res\drawable\srec_game_news_thumb_back.xml
+* res\drawable\srec_gray_circle.xml
+* res\drawable\srec_like_back.xml
+* res\drawable\srec_like_liked_back.xml
+* res\drawable\srec_local_video_narrator_back.xml
+* res\drawable\srec_local_video_title_edit_back_base.xml
+* res\drawable\srec_local_video_title_edit_et_back_base.xml
+* res\drawable\srec_local_video_upload_back_base.xml
+* res\drawable\srec_main_share_progress.xml
+* res\drawable\srec_pause_video_icon_base.xml
+* res\drawable\srec_play_video_circle_base.xml
+* res\drawable\srec_play_video_icon_base.xml
+* res\drawable\srec_profile_conf_bg_land.xml
+* res\drawable\srec_profile_local_video_back.xml
+* res\drawable\srec_profile_nick_bg_land.xml
+* res\drawable\srec_prt_header_back.xml
+* res\drawable\srec_recomm_play_video_circle.xml
+* res\drawable\srec_recomm_play_video_icon.xml
+* res\drawable\srec_report_back.xml
+* res\drawable\srec_report_cancel_back.xml
+* res\drawable\srec_sb_item_back.xml
+* res\drawable\srec_share_btn_back.xml
+* res\drawable\srec_share_close_btn_back.xml
+* res\drawable\srec_share_edit_back.xml
+* res\drawable\srec_share_panel_back.xml
+* res\drawable\srec_share_share_back_left_bottom.xml
+* res\drawable\srec_share_share_back_left_top.xml
+* res\drawable\srec_share_share_back_right_bottom.xml
+* res\drawable\srec_share_share_back_right_top.xml
+* res\drawable\srec_share_thumb_back.xml
+* res\drawable\srec_share_thumb_back_port.xml
+* res\drawable\srec_share_video_platforms_back.xml
+* res\drawable\srec_signin_account_back.xml
+* res\drawable\srec_signin_btn_back.xml
+* res\drawable\srec_signout_btn_back.xml
+* res\drawable\srec_ve_progress.xml
+* res\drawable\srec_ve_progress_bg.xml
+* res\drawable\srec_ve_trim_bg.xml
+* res\drawable\srec_video_item_left_bg_land.xml
+* res\drawable\srec_video_item_right_bottom_bg_land.xml
+* res\drawable\srec_video_item_right_top_bg_land.xml
+* res\drawable\ssdk_oks_classic_platform_cell_back.xml
+* res\drawable\ssdk_oks_classic_progressbar.xml
+* res\raw\
+* res\raw\smssdk_pydb
+* res\values-en\
+* res\values-en\smssdk_arrays.xml
+* res\values-en\smssdk_errors.xml
+* res\values-en\smssdk_strings.xml
+* res\values-en\srec_errors.xml
+* res\values-en\srec_plurals.xml
+* res\values-en\srec_strings.xml
+* res\values-en\srec_strings_base.xml
+* res\values-en\ssdk_oks_strings.xml
+* res\values-en\ssdk_strings.xml
+* res\values\
+* res\values\smssdk_arrays.xml
+* res\values\smssdk_colors.xml
+* res\values\smssdk_errors.xml
+* res\values\smssdk_strings.xml
+* res\values\smssdk_styles.xml
+* res\values\srec_drawables.xml
+* res\values\srec_errors.xml
+* res\values\srec_plurals.xml
+* res\values\srec_strings.xml
+* res\values\srec_strings_base.xml
+* res\values\srec_styles_base.xml
+* res\values\ssdk_oks_color_drawables.xml
+* res\values\ssdk_oks_strings.xml
+* res\values\ssdk_strings.xml
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+In ShareRec:
+* libs\armeabi-v7a\librecapturer.so => shareRec\src\main\jniLibs\armeabi-v7a\librecapturer.so
+* libs\armeabi-v7a\librecapturer16.so => shareRec\src\main\jniLibs\armeabi-v7a\librecapturer16.so
+* libs\armeabi-v7a\librecmedia.so => shareRec\src\main\jniLibs\armeabi-v7a\librecmedia.so
+* libs\MobCommons-2016.1011.1018.jar => shareRec\libs\MobCommons-2016.1011.1018.jar
+* libs\MobTools-2016.1011.1018.jar => shareRec\libs\MobTools-2016.1011.1018.jar
+* libs\OneKeyShare.jar => shareRec\libs\OneKeyShare.jar
+* libs\ShareRec-1.5.1.jar => shareRec\libs\ShareRec-1.5.1.jar
+* libs\ShareRec-Core-1.5.1.jar => shareRec\libs\ShareRec-Core-1.5.1.jar
+* libs\ShareSDK-Core-2.7.7.jar => shareRec\libs\ShareSDK-Core-2.7.7.jar
+* libs\ShareSDK-Facebook-2.7.7.jar => shareRec\libs\ShareSDK-Facebook-2.7.7.jar
+* libs\ShareSDK-SinaWeibo-2.7.7.jar => shareRec\libs\ShareSDK-SinaWeibo-2.7.7.jar
+* libs\ShareSDK-Wechat-2.7.7.jar => shareRec\libs\ShareSDK-Wechat-2.7.7.jar
+* libs\ShareSDK-Wechat-Core-2.7.7.jar => shareRec\libs\ShareSDK-Wechat-Core-2.7.7.jar
+* libs\ShareSDK-Wechat-Moments-2.7.7.jar => shareRec\libs\ShareSDK-Wechat-Moments-2.7.7.jar
+* libs\SMSSDK-2.1.2.jar => shareRec\libs\SMSSDK-2.1.2.jar
+* libs\SMSSDK-GUI.jar => shareRec\libs\SMSSDK-GUI.jar
+In HelloAR:
+* AndroidManifest.xml => helloAR\src\main\AndroidManifest.xml
+* assets\ => helloAR\src\main\assets\
+* libs\armeabi-v7a\libEasyAR.so => helloAR\src\main\jniLibs\armeabi-v7a\libEasyAR.so
+* libs\armeabi-v7a\libEasyARUnity.so => helloAR\src\main\jniLibs\armeabi-v7a\libEasyARUnity.so
+* libs\armeabi-v7a\libmain.so => helloAR\src\main\jniLibs\armeabi-v7a\libmain.so
+* libs\armeabi-v7a\libmono.so => helloAR\src\main\jniLibs\armeabi-v7a\libmono.so
+* libs\armeabi-v7a\libunity.so => helloAR\src\main\jniLibs\armeabi-v7a\libunity.so
+* libs\EasyAR.jar => helloAR\libs\EasyAR.jar
+* libs\unity-classes.jar => helloAR\libs\unity-classes.jar
+* libs\x86\libmain.so => helloAR\src\main\jniLibs\x86\libmain.so
+* libs\x86\libmono.so => helloAR\src\main\jniLibs\x86\libmono.so
+* libs\x86\libunity.so => helloAR\src\main\jniLibs\x86\libunity.so
+* res\ => helloAR\src\main\res\
+* src\ => helloAR\src\main\java\
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

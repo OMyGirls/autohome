@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="340dp"
+    android:background="@drawable/bg_1">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="top|left"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:orientation="vertical"
+            android:background="#ffffff">
+            <EditText
+                android:id="@+id/editTextShare"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:padding="8dp"
+                android:layout_weight="1"
+                android:hint="说点什么吧~(选填)"
+                android:gravity="left|top"
+                android:background="#ffffff"
+                android:inputType="textMultiLine"
+                android:ems="10"/>
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="4dp"
+                android:layout_gravity="right"
+                android:src="@drawable/lock"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="16dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:layout_gravity="center_vertical"
+                android:textColor="#ded7d7"
+                android:textSize="18dp"
+                android:gravity="center_vertical"
+                android:text="分享到: " />
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+                <ImageButton
+                    android:id="@+id/ibtn_share_pyq"
+                    android:layout_width="46dp"
+                    android:layout_height="46dp"
+                    android:background="@android:color/transparent"
+                    android:layout_gravity="center_horizontal"
+                    android:scaleType="fitCenter" />
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:textColor="#ded7d7"
+                    android:text="朋友圈"/>
+            </LinearLayout>
+        </LinearLayout>
+        <ImageView
+            android:id="@+id/iv_share"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="0dp"
+            android:padding="16dp"
+            android:background="@drawable/share_bg"
+            android:src="@drawable/share_text"/>
+    </LinearLayout>
+
+</FrameLayout>

@@ -1,0 +1,714 @@
+[
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_scan_line.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\bg_scan_line.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\help_info2.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\help_info2.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\person_bg.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\person_bg.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\neirong_1.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\neirong_1.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_ar_body2.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\ic_ar_body2.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\play.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\play.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_btn_enter_ar.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\ic_btn_enter_ar.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zhuce.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\zhuce.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\logo.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\logo.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\product_buy.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\product_buy.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_back__pressed.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\icon_back__pressed.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ar_info_iv_5.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\ar_info_iv_5.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\setting_info1.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\setting_info1.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\help_text.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\help_text.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_ar_title5.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\ic_ar_title5.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\user_icon.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\user_icon.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\forget_password.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\forget_password.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\replay.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\replay.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\help_arrow_selected.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\help_arrow_selected.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\share_pyq_normal.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\share_pyq_normal.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_title_ar1.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\ic_title_ar1.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\line.9.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\line.9.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\help_arrow_normal.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\help_arrow_normal.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\logout.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\logout.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\about_text.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\about_text.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\lock.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\lock.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\product_line.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\product_line.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\login.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\login.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\product_bg.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\product_bg.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tab_scan_normal.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\tab_scan_normal.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ar_info_iv_4.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\ar_info_iv_4.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\logout.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\logout.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\setting_photo.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\setting_photo.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\progress_record_normal.9.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\progress_record_normal.9.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\discover_selected.9.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\discover_selected.9.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_logout.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\bg_logout.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\product_info.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\product_info.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\discover_normal.9.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\discover_normal.9.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\text_ar_bg.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\text_ar_bg.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\replay.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\replay.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\start_scan_wave1.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\start_scan_wave1.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ar_info_iv_2.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\ar_info_iv_2.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\share_pyq_selected.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\share_pyq_selected.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\denglu.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\denglu.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_ar_body3.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\ic_ar_body3.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\setteing_text.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\setteing_text.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\play_video.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\play_video.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\transparent.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\transparent.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_1.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\bg_1.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\help_text.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\help_text.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\setteing.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\setteing.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ssdk_oks_ptr_ptr.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\ssdk_oks_ptr_ptr.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_body_ar1.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\ic_body_ar1.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\black_bg1.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\black_bg1.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_back_normal.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\icon_back_normal.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\arrow.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\arrow.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\line.9.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\line.9.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\progress_record_pressed.9.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\progress_record_pressed.9.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\person_bg.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\person_bg.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_body_ar1.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\ic_body_ar1.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\logo_text.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\logo_text.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\arrow.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\arrow.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ar_info_iv_3.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\ar_info_iv_3.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ar_data_00.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\ar_data_00.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ar_info_iv_3.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\ar_info_iv_3.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\line_default.9.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\line_default.9.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\share_text.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\share_text.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\product_buy.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\product_buy.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\discover_normal.9.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\discover_normal.9.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\share_text.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\share_text.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\neirong_3.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\neirong_3.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_title_ar1.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\ic_title_ar1.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\reg.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\reg.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\help.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\help.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\about_text.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\about_text.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\record_point.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\record_point.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\line_default.9.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\line_default.9.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ar_info_iv_1_small.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\ar_info_iv_1_small.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\play.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\play.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\record_stop.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\record_stop.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_camera.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\ic_camera.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\progress_record_pressed.9.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\progress_record_pressed.9.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\login_bg.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\login_bg.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\share_bg.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\share_bg.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\neirong_2.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\neirong_2.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\share_bg.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\share_bg.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\login_bg.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\login_bg.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\discover_selected.9.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\discover_selected.9.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\input_bg.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\input_bg.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\login.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\login.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\lock.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\lock.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\start_scan_wave1.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\start_scan_wave1.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\logo_text.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\logo_text.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\setteing_text.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\setteing_text.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\header.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\header.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\transparent.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\transparent.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\delete.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\delete.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_scan_line.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\bg_scan_line.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\product_bg.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\product_bg.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\record_stop_button.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\record_stop_button.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\text_ar_bg.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\text_ar_bg.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ar_data_00.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\ar_data_00.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zhuce.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\zhuce.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_ar_body3.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\ic_ar_body3.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\record_point.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\record_point.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_saomiaokuang.9.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\icon_saomiaokuang.9.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\product_info.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\product_info.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\product_line.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\product_line.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\actionbar_scan_bg.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\actionbar_scan_bg.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\actionbar_bg.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\actionbar_bg.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\password_icon.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\password_icon.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_ar_body2.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\ic_ar_body2.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\help_line.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\help_line.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\share_pyq_normal.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\share_pyq_normal.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\actionbar_scan_bg.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\actionbar_scan_bg.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ar_info_iv_5.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\ar_info_iv_5.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_saomiaotiao.9.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\icon_saomiaotiao.9.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_btn_enter_ar.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\ic_btn_enter_ar.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\share_hy_selected.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\share_hy_selected.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_ar_title5.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\ic_ar_title5.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\play_video.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\play_video.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\start_scan_plus1.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\start_scan_plus1.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\input_bg.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\input_bg.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\share_hy_normal.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\share_hy_normal.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\setting_info1.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\setting_info1.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\logo.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\logo.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\neirong_2.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\neirong_2.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_camera.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\ic_camera.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_circleview.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\ic_circleview.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\help.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\help.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ar_info_iv_1.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\ar_info_iv_1.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\help_arrow_selected.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\help_arrow_selected.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\share_pyq_selected.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\share_pyq_selected.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_ar_body5.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\ic_ar_body5.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\delete.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\delete.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_1.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\bg_1.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\start_scan_plus1.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\start_scan_plus1.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\setteing.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\setteing.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_back__pressed.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\icon_back__pressed.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\line_v.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\line_v.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_saomiaokuang.9.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\icon_saomiaokuang.9.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_ar_body5.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\ic_ar_body5.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\neirong_1.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\neirong_1.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\denglu.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\denglu.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\setting_photo.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\setting_photo.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\record_stop.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\record_stop.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ar_info_iv_2.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\ar_info_iv_2.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_saomiaotiao.9.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\icon_saomiaotiao.9.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\share_hy_selected.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\share_hy_selected.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tab_scan_normal.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\tab_scan_normal.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\record_stop_button.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\record_stop_button.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\neirong_3.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\neirong_3.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\user_icon.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\user_icon.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ar_info_iv_1_small.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\ar_info_iv_1_small.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\about.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\about.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ssdk_oks_ptr_ptr.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\ssdk_oks_ptr_ptr.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\share.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\share.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\progress_record_normal.9.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\progress_record_normal.9.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\line_v.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\line_v.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\share_ar.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\share_ar.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\help_line.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\help_line.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\help_info2.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\help_info2.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\header.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\header.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\about.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\about.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_circleview.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\ic_circleview.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_back_normal.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\icon_back_normal.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\share.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\share.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ar_info_iv_4.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\ar_info_iv_4.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\black_bg1.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\black_bg1.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\actionbar_bg.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\actionbar_bg.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\reg.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\reg.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\share_ar.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\share_ar.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ar_info_iv_1.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\ar_info_iv_1.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\forget_password.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\forget_password.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\share_hy_normal.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\share_hy_normal.png"
+    },
+    {
+        "merged": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_logout.png",
+        "source": "D:\\shareSDK\\v2.7.10\\ShareSDK for Android Sample\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\bg_logout.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\help_arrow_normal.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\help_arrow_normal.png"
+    },
+    {
+        "merged": "D:\\back\\HelloAR2\\helloAR\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\password_icon.png",
+        "source": "D:\\back\\HelloAR2\\helloAR\\src\\main\\res\\drawable-hdpi\\password_icon.png"
+    }
+]
